@@ -1,0 +1,15 @@
+button {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  button.favorite {
+    color: red;
+  }
+  
+  button.not-favorite {
+    color: gray;
+  }
+  
